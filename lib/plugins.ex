@@ -1,5 +1,5 @@
 defmodule Servy.Plugins do
-  alias Servy.Conv
+  alias Servy.Conv, as: Conv
   @doc "Logs 404 requests"
   def track(%{status: 404, path: path} = conv) do
     IO.puts("Warning: #{path} is on the loose!")
