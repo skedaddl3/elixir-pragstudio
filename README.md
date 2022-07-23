@@ -8,21 +8,21 @@
 
 3. pragstudio-elixir-03-transforms - [Transforms](https://github.com/skedaddl3/elixir-pragstudio/blob/0e49501f2c43fd64deb6f886efa5d2b9adcf45ec/lib/handler.ex)
 
-4. pragstudio-elixir-04-parse - [Parse]()
+4. pragstudio-elixir-04-parse - [Parse](https://github.com/skedaddl3/elixir-pragstudio/blob/fcfada345ca5dfc15c08f9f0c8c4b9db2ffa3cd7/lib/handler.ex)
 
-5. pragstudio-elixir-05-route-response - [Route Response]()
+5. pragstudio-elixir-05-route-response - [Route Response](https://github.com/skedaddl3/elixir-pragstudio/blob/cb18904da76e0371fd52780d73d07b4d99d25596/lib/handler.ex)
 
-6. pragstudio-elixir-06-function-clauses - [Function Clauses]()
+6. pragstudio-elixir-06-function-clauses - [Function Clauses](https://github.com/skedaddl3/elixir-pragstudio/blob/87aa39c2f0471c937572f04be0211d1ed6c77880/lib/handler.ex)
 
-7. pragstudio-elixir-07-params-status - [Params Status]()
+7. pragstudio-elixir-07-params-status - [Params Status](https://github.com/skedaddl3/elixir-pragstudio/blob/9167a1ef53cc5da16c0b3acc56797884f0b7dad8/lib/handler.ex)
 
-8. pragstudio-elixir-08-rewriting - [Rewriting]()
+8. pragstudio-elixir-08-rewriting - [Rewriting](https://github.com/skedaddl3/elixir-pragstudio/blob/39956fdd336f8d9b5cd57aba9a5643732bbd4d06/lib/handler.ex)
 
-9. pragstudio-elixir-09-serve-files - [Serve Files]()
+9. pragstudio-elixir-09-serve-files - [Serve Files](https://github.com/skedaddl3/elixir-pragstudio/commit/0f7f211798d4a50d4dfb10ce2abc2d8b7215e4c1)
 
-10. pragstudio-elixir-10-module-attributes - [Module Attributes]()
+10. pragstudio-elixir-10-module-attributes - [Module Attributes](https://github.com/skedaddl3/elixir-pragstudio/commit/cb2934a118192f48d737073de9ef1693aa70e935#diff-51177fba3219e9037adef9c75b1e0d2ea935315d05287a61d8892f1b3764edd4)
 
-11. pragstudio-elixir-11-organizing-code - [Organizing Code]()
+11. pragstudio-elixir-11-organizing-code - [Organizing Code](https://github.com/skedaddl3/elixir-pragstudio/commit/b7e95dfc6d780c3b91ecfa01d721c59c24368830)
 
 12. pragstudio-elixir-12-structs - [Structs]()
 
