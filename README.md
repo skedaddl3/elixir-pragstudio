@@ -1,6 +1,6 @@
 ## PragTechnologies - Coding Bootcamp
 
-### Each Code Progress can be viewed on my [Commit History](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
+#### Each Code Progress can be viewed on my [Commit History](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
 
 1. pragstudio-elixir-01-intro - [Introduction](https://github.com/skedaddl3/elixir-pragstudio/commit/2d7cedd6e95697d686a85a9da1c3b8ddf929c073#diff-ba7efc6b78ec91b2d2aed8b82c1a8eb5ec11ed843c6ab6ff2db4f04e0ccb05b0)
 
