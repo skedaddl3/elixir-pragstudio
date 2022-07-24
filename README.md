@@ -1,6 +1,6 @@
 ## PragTechnologies - Coding Bootcamp (Elixir)
 
-#### Each Code Progress can be viewed on my [Commit History](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
+#### Each Code Progress can be viewed on my [Commit History 🔄](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
 
 1. pragstudio-elixir-01-intro - [Introduction](https://github.com/skedaddl3/elixir-pragstudio/commit/2d7cedd6e95697d686a85a9da1c3b8ddf929c073#diff-ba7efc6b78ec91b2d2aed8b82c1a8eb5ec11ed843c6ab6ff2db4f04e0ccb05b0)
 
@@ -38,7 +38,7 @@
 
 18. pragstudio-elixir-17-phoenix - [Phoenix](https://github.com/skedaddl3/phoenix-framework-pragstudio) Redirects to another repository
 
-19. pragstudio-elixir-18-testing - [Testing]()
+19. pragstudio-elixir-18-testing - [Testing](https://github.com/skedaddl3/elixir-pragstudio/commit/920895f2c3aa4e4660c655424e89708b01ca5b2a)
 
 20. pragstudio-elixir-19-external-library - [External Library]()
 
