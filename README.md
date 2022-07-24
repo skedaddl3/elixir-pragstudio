@@ -1,4 +1,4 @@
-## PragTechnologies - Coding Bootcamp
+## PragTechnologies - Coding Bootcamp (Elixir)
 
 #### Each Code Progress can be viewed on my [Commit History](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
 
@@ -24,52 +24,14 @@
 
 11. pragstudio-elixir-11-organizing-code - [Organizing Code](https://github.com/skedaddl3/elixir-pragstudio/commit/b7e95dfc6d780c3b91ecfa01d721c59c24368830)
 
-12. pragstudio-elixir-12-structs - [Structs]()
+12. pragstudio-elixir-12-structs - [Structs](https://github.com/skedaddl3/elixir-pragstudio/commit/a2b8f9bd1112f8e183202115c1e0fb27d738b0fb)
 
-13. pragstudio-elixir-13-post-requests - [Post Requests]()
+13. pragstudio-elixir-13-post-requests - [Post Requests](https://github.com/skedaddl3/elixir-pragstudio/commit/b534ae70130a7d647f41153400072c15faa9d16a)
 
-14. pragstudio-elixir-14-recursion - [Recursion]()
+14. pragstudio-elixir-14-recursion - [Recursion](https://github.com/skedaddl3/elixir-pragstudio/commit/4bad5c21c40a1f42c4f9537478abb3b41a94506e)
 
-15. pragstudio-elixir-15-enum-1 - [Enum 1]()
+15. pragstudio-elixir-15-enum-1 - [Enum 1](https://github.com/skedaddl3/elixir-pragstudio/commit/2136779039cb6ab6eb5bc06424e5e7c7dffcb1f0)
 
-16. pragstudio-elixir-15-enum-2 - [Enum 2]()
+16. pragstudio-elixir-15-enum-2 - [Enum 2](https://github.com/skedaddl3/elixir-pragstudio/commit/2136779039cb6ab6eb5bc06424e5e7c7dffcb1f0)
 
-17. pragstudio-elixir-16-comprehensions - [Comprehensions]()
-
-18. pragstudio-elixir-17-phoenix - [Phoenix]()
-
-19. pragstudio-elixir-18-testing - [Testing]()
-
-20. pragstudio-elixir-19-external-library - [External Library]()
-
-21. pragstudio-elixir-20-web-sockets - [Web Sockets]()
-
-22. pragstudio-elixir-21-processes-1 - [Processes 1]()
-
-23. pragstudio-elixir-21-processes-2 - [Processes 2]()
-
-24. pragstudio-elixir-22-messages - [Messages]()
-
-25. pragstudio-elixir-23-tasks - [Tasks]()
-
-26. pragstudio-elixir-24-stateful-server-1 - [Stateful Server 1]()
-
-27. pragstudio-elixir-24-stateful-server-2 - [Stateful Server 2]()
-
-28. pragstudio-elixir-24-stateful-server-3 - [Stateful Server 3]()
-
-29. pragstudio-elixir-24-stateful-server-4 - [Stateful Server 4]()
-
-30. pragstudio-elixir-25-refactor-server - [Refactor Server]()
-
-31. pragstudio-elixir-26-gen-server - [Gen Server]()
-
-32. pragstudio-elixir-27-another-genserver - [Another Gen Server]()
-
-33. pragstudio-elixir-28-linking-processes - [Linking Processes]()
-
-34. pragstudio-elixir-29-supervisors-1 - [Supervisors 1]()
-
-35. pragstudio-elixir-29-supervisors-2 - [Supervisors 2]()
-
-36. pragstudio-elixir-30-application - [Application]()
+17. pragstudio-elixir-16-comprehensions - [Comprehensions](https://github.com/skedaddl3/elixir-pragstudio/commit/e0ddef222ccd1f5fc53adb5cd8b712a3897ce327)
