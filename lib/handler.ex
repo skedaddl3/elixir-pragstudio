@@ -2,7 +2,7 @@ defmodule Servy.Handler do
   alias Servy.Conv
   alias Servy.BearController
   import Servy.Plugins, only: [rewrite_path: 1, log: 1, track: 1]
-  import Servy.Parser, only: [parse: 1]
+import Servy.Parser, only: [parse: 1]
   @moduledoc "Handles HTTP requests."
   # @pages_path Path.expand("../pages", __DIR__)
   @doc "Transforms the request into a response."
