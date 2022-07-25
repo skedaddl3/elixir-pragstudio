@@ -46,9 +46,9 @@
 
 22. pragstudio-elixir-21-processes-1 - [Processes 1](https://github.com/skedaddl3/elixir-pragstudio/commit/3b109474f3597d08aff6983599e0576b5786218c)
 
-23. pragstudio-elixir-21-processes-2 - [Processes 2]()
+23. pragstudio-elixir-21-processes-2 - [Processes 2](https://github.com/skedaddl3/elixir-pragstudio/commit/3b109474f3597d08aff6983599e0576b5786218c)
 
-24. pragstudio-elixir-22-messages - [Messages]()
+24. pragstudio-elixir-22-messages - [Messages](https://github.com/skedaddl3/elixir-pragstudio/commit/5430de13ba6b4f9eb004bc10934d398f5a7cdadd)
 
 25. pragstudio-elixir-23-tasks - [Tasks]()
 
