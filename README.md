@@ -40,11 +40,11 @@
 
 19. pragstudio-elixir-18-testing - [Testing](https://github.com/skedaddl3/elixir-pragstudio/commit/920895f2c3aa4e4660c655424e89708b01ca5b2a)
 
-20. pragstudio-elixir-19-external-library - [External Library]()
+20. pragstudio-elixir-19-external-library - [External Library](https://github.com/skedaddl3/elixir-pragstudio/commit/6f8c398a2afd81cdaf70202edeebd3b7fb84923b)
 
-21. pragstudio-elixir-20-web-sockets - [Web Sockets]()
+21. pragstudio-elixir-20-web-sockets - [Web Sockets](https://github.com/skedaddl3/elixir-pragstudio/commit/afc7639d3262c87495020435fd51f4a5a54eeff4)
 
-22. pragstudio-elixir-21-processes-1 - [Processes 1]()
+22. pragstudio-elixir-21-processes-1 - [Processes 1](https://github.com/skedaddl3/elixir-pragstudio/commit/3b109474f3597d08aff6983599e0576b5786218c)
 
 23. pragstudio-elixir-21-processes-2 - [Processes 2]()
 
