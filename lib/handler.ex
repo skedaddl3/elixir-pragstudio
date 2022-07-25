@@ -2,7 +2,7 @@ defmodule Servy.Handler do
   alias Servy.Conv
   alias Servy.BearController
   import Servy.Plugins, only: [rewrite_path: 1, log: 1, track: 1]
-import Servy.Parser, only: [parse: 1]
+  import Servy.Parser, only: [parse: 1]
   @moduledoc "Handles HTTP requests."
   # @pages_path Path.expand("../pages", __DIR__)
   @doc "Transforms the request into a response."
@@ -19,6 +19,16 @@ import Servy.Parser, only: [parse: 1]
   # def route(conv) do
   #   route(conv, conv.method, conv.path)
   # end
+
+  def route(%Conv{method: "GET", path: "/kaboom"}) do
+    raise "Kaboom!"
+  end
+
+  def route(%Conv{method: "GET", path: "/hibernate/" <> time} = conv) do
+    time |> String.to_integer() |> :timer.sleep()
+
+    %{conv | status: 200, resp_body: "Awake!"}
+  end
 
   def route(%Conv{method: "GET", path: "/wildthings"} = conv) do
     %{conv | status: 200, resp_body: "Bears, Lions, Tigers"}
