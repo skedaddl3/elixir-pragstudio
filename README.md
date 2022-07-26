@@ -58,7 +58,7 @@
 
 28. pragstudio-elixir-24-stateful-server-3 - [Stateful Server 3](https://github.com/skedaddl3/elixir-pragstudio/commit/f578de42d114949943d687a9d3e3b07df2307780)
 
-29. pragstudio-elixir-24-stateful-server-4 - [Stateful Server 4]()
+29. pragstudio-elixir-24-stateful-server-4 - [Stateful Server 4](https://github.com/skedaddl3/elixir-pragstudio/commit/e32ac32727280835725a155c6c9da6c44ba2ee46)
 
 30. pragstudio-elixir-25-refactor-server - [Refactor Server]()
 
