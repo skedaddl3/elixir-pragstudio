@@ -8,6 +8,16 @@ defmodule Servy.PledgeServer do
     pid
   end
 
+  def create_pledge(name, amount) do
+    send(@name, {self(), :create_pledge, name, amount})
+
+    receive do
+      {:response, status} -> status
+    end
+  end
+
+  # Server
+
   def listen_loop(state) do
     receive do
       {sender, :create_pledge, name, amount} ->
@@ -20,14 +30,15 @@ defmodule Servy.PledgeServer do
       {sender, :recent_pledges} ->
         send(sender, {:response, state})
         listen_loop(state)
-    end
-  end
 
-  def create_pledge(name, amount) do
-    send(@name, {self(), :create_pledge, name, amount})
+      {sender, :total_pledged} ->
+        total = Enum.map(state, &elem(&1, 1)) |> Enum.sum()
+        send(sender, {:response, total})
+        listen_loop(state)
 
-    receive do
-      {:response, status} -> status
+      unexpected ->
+        IO.puts("Unexpected messaged: #{inspect(unexpected)}")
+        listen_loop(state)
     end
   end
 
@@ -37,6 +48,14 @@ defmodule Servy.PledgeServer do
     # blocking
     receive do
       {:response, pledges} -> IO.inspect(pledges)
+    end
+  end
+
+  def total_pledged do
+    send(@name, {self(), :total_pledged})
+
+    receive do
+      {:response, total} -> total
     end
   end
 
@@ -50,6 +69,8 @@ alias Servy.PledgeServer
 
 pid = PledgeServer.start()
 
+send(pid, {:stop, "hammertime"})
+
 IO.inspect(PledgeServer.create_pledge("larry", 10))
 IO.inspect(PledgeServer.create_pledge("moe", 20))
 IO.inspect(PledgeServer.create_pledge("curly", 30))
@@ -57,3 +78,6 @@ IO.inspect(PledgeServer.create_pledge("daisy", 40))
 IO.inspect(PledgeServer.create_pledge("grace", 50))
 
 IO.inspect(PledgeServer.recent_pledges())
+IO.inspect(PledgeServer.total_pledged())
+
+IO.inspect(Process.info(pid, :messages))
