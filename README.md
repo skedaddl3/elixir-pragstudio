@@ -50,11 +50,11 @@
 
 24. pragstudio-elixir-22-messages - [Messages](https://github.com/skedaddl3/elixir-pragstudio/commit/5430de13ba6b4f9eb004bc10934d398f5a7cdadd)
 
-25. pragstudio-elixir-23-tasks - [Tasks]()
+25. pragstudio-elixir-23-tasks - [Tasks](https://github.com/skedaddl3/elixir-pragstudio/commit/41eea20794e08561d21a65dc68ea0c1babcb9756)
 
-26. pragstudio-elixir-24-stateful-server-1 - [Stateful Server 1]()
+26. pragstudio-elixir-24-stateful-server-1 - [Stateful Server 1](https://github.com/skedaddl3/elixir-pragstudio/commit/0509fe91f4e506c97646ce09308188947c422565)
 
-27. pragstudio-elixir-24-stateful-server-2 - [Stateful Server 2]()
+27. pragstudio-elixir-24-stateful-server-2 - [Stateful Server 2](https://github.com/skedaddl3/elixir-pragstudio/commit/d010b388a987846f52203f91bfc21bc274074a3e)
 
 28. pragstudio-elixir-24-stateful-server-3 - [Stateful Server 3]()
 
