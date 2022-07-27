@@ -70,6 +70,6 @@
 
 34. pragstudio-elixir-29-supervisors-1 - [Supervisors 1](https://github.com/skedaddl3/elixir-pragstudio/commit/8c66ca808513c26f57afac486ca6038d18576246) ✔️
 
-35. pragstudio-elixir-29-supervisors-2 - [Supervisors 2]() ✔️
+35. pragstudio-elixir-29-supervisors-2 - [Supervisors 2](https://github.com/skedaddl3/elixir-pragstudio/commit/eaa508eed8d58e445439077bbecca726751f1024) ✔️
 
 36. pragstudio-elixir-30-application - [Application]() 🚧
