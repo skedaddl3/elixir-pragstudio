@@ -1,6 +1,6 @@
 ## PragTechnologies - Coding Bootcamp (Elixir & OTP)
 
-#### Each Code Progress can be viewed on my [Commit History 🔄](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
+### Each Code Progress can be viewed on my [Commit History 🔄](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
 
 1. pragstudio-elixir-01-intro - [Introduction](https://github.com/skedaddl3/elixir-pragstudio/commit/2d7cedd6e95697d686a85a9da1c3b8ddf929c073#diff-ba7efc6b78ec91b2d2aed8b82c1a8eb5ec11ed843c6ab6ff2db4f04e0ccb05b0) ✔️
 
@@ -72,4 +72,4 @@
 
 35. pragstudio-elixir-29-supervisors-2 - [Supervisors 2](https://github.com/skedaddl3/elixir-pragstudio/commit/eaa508eed8d58e445439077bbecca726751f1024) ✔️
 
-36. pragstudio-elixir-30-application - [Application]() 🚧
+36. pragstudio-elixir-30-application - [Application](https://github.com/skedaddl3/elixir-pragstudio/commit/2d5599db77f7baa74728fd224f50f37e6add9809) ✔️
