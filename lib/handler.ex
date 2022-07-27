@@ -23,6 +23,10 @@ defmodule Servy.Handler do
   #   route(conv, conv.method, conv.path)
   # end
 
+  # def route(%Conv{method: "GET", path: "/pledges"} = conv) do
+  #   Servy.PledgeController.index(conv)
+  # end
+
   def route(%Conv{method: "GET", path: "/sensors"} = conv) do
     task = Task.async(fn -> Servy.Tracker.get_location("bigfoot") end)
 
@@ -45,6 +49,11 @@ defmodule Servy.Handler do
     # snapshots = [snapshot1, snapshot2, snapshot3]
 
     %{conv | status: 200, resp_body: inspect({snapshots, where_is_bigfoot})}
+  end
+
+  def route(%Conv{method: "GET", path: "/sensors"} = conv) do
+    sensor_data = Servy.SensorServer.get_sensor_data()
+    %{conv | status: 200, resp_body: inspect(sensor_data)}
   end
 
   def route(%Conv{method: "GET", path: "/kaboom"}) do

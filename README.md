@@ -62,7 +62,7 @@
 
 30. pragstudio-elixir-25-refactor-server - [Refactor Server](https://github.com/skedaddl3/elixir-pragstudio/commit/6b83215eab09ca004801cf50cefb4daec06f6acd)
 
-31. pragstudio-elixir-26-gen-server - [Gen Server]()
+31. pragstudio-elixir-26-gen-server - [Gen Server](https://github.com/skedaddl3/elixir-pragstudio/commit/dd916af57be0a0ce4a5c14df97488dfbb6b06af6)
 
 32. pragstudio-elixir-27-another-genserver - [Another Gen Server]()
 
