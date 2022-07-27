@@ -1,4 +1,4 @@
-## PragTechnologies - Coding Bootcamp (Elixir)
+## PragTechnologies - Coding Bootcamp (Elixir & OTP)
 
 #### Each Code Progress can be viewed on my [Commit History 🔄](https://github.com/skedaddl3/elixir-pragstudio/commits/master)
 
